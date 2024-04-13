@@ -40,6 +40,7 @@ Users should be able to:
 <details>
   <summary>Desktop version</summary>
   <img alt="Desktop version screenshot" src="./screenshot/screenshot-desktop.png">
+</details>
 
 ### Links
 
