@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](#)
-- [Live Site](#)
+- [Solution](https://www.frontendmentor.io/solutions/social-proof-section-using-css-grid-F2AFHw_42p)
+- [Live Site](https://alberto-rj.github.io/social-proof-section/)
 
 ## My process
 
